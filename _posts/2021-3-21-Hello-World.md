@@ -26,63 +26,63 @@ _睡衣_
 ![002](../assets/images/0321-001.jpg)
 
 
-<div align = "center">你好</div>
+<center>你好</center>
 
-感谢你来这里转转
+<center>感谢你来这里转转</center>
 
-如果你愿意与我聊两句的话
+<center>如果你愿意与我聊两句的话</center>
 
-我有茶，也有酒
+<center>我有茶，也有酒</center>
 
-或者
+<center>或者</center>
 
-只是歇歇脚
+<center>只是歇歇脚</center>
 
-我们相顾无言
+<center>我们相顾无言</center>
 
-其实也很不错
-
-<br>
-
-现在是2021年3月14日
-
-凌晨一点四十
-
-龙抬头
-
-今年的第一声春雷炸响
-
-长风沛雨
-
-比起去年
-
-一个好的开端
+<center>其实也很不错</center>
 
 <br>
 
-我想
+<center>现在是2021年3月20日</center>
 
-是时候了
+<center>凌晨一点四十</center>
 
-在这个春天
+<center>春分</center>
 
-重启
+<center>春雷乍响</center>
 
-做回我自己
+<center>长风沛雨</center>
+
+<center>比起去年</center>
+
+<center>一个好的开端</center>
 
 <br>
 
-春天来了
+<center>我想</center>
 
-你也来了
+<center>是时候了</center>
 
-那美好的东西
+<center>在这个春天</center>
 
-也会纷至沓来吧
+<center>重启</center>
+
+<center>做回我自己</center>
+
+<br>
+
+<center>春天来了</center>
+
+<center>你也来了</center>
+
+<center>那美好的东西</center>
+
+<center>也会纷至沓来吧</center>
 <br>
 
 ![002](../assets/images/0321-002.jpg)
 
-楼下的春天
+<center>楼下的春天</center>
 
-作为见面礼
+<center>作为见面礼</center>
